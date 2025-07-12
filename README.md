@@ -4,6 +4,7 @@ Some useful script collection for Windows.
 ## İçindekiler
 - [ZIP Bruteforce](zip_brute.py)
 - [Password Generator](passgen.py)
+- [IP Info](ipinfo.py)
 
 ## Requirements
 - Python 3.x  
