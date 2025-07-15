@@ -20,6 +20,6 @@ def zip_brute(zip_path, wordlist_path):
     print("[XX] Password wasn't found.")
 
 if __name__ == "__main__":
-    zip_path = input("ZIP dosyasının yolu: ")
-    wordlist_path = input("Wordlist dosyasının yolu: ")
+    zip_path = input("ZIP file: ")
+    wordlist_path = input("Wordlist file: ")
     zip_brute(zip_path, wordlist_path)
