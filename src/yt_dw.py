@@ -41,6 +41,9 @@ def download_video(url: str, chosen_format: str, output_path: Path = path):
     with yt_dlp.YoutubeDL(ytdl_opts) as ydl:
         ydl.download([url])
 
+def pause():
+    input("Press any key to continue...")
+
 if __name__ == "__main__":
     check_ffmpeg()
     url = input("Enter video URL: ").strip()
@@ -52,3 +55,4 @@ if __name__ == "__main__":
         chosen_format = 'mp4'
 
     download_video(url, chosen_format)
+    pause()

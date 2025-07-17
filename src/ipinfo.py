@@ -9,6 +9,10 @@ def get_public_ip():
     except requests.RequestException:
         return "ERROR"
 
+def pause():
+    input("Press any key to continue...")
+
 if __name__ == "__main__":
     print("Local IP:", get_local_ip())
     print("Public IP:", get_public_ip())
+    pause()

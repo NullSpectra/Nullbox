@@ -19,7 +19,11 @@ def zip_brute(zip_path, wordlist_path):
 
     print("[XX] Password wasn't found.")
 
+def pause():
+    input("Press any key to continue...")
+
 if __name__ == "__main__":
     zip_path = input("ZIP file: ")
     wordlist_path = input("Wordlist file: ")
     zip_brute(zip_path, wordlist_path)
+    pause()
