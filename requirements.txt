@@ -1,3 +1,2 @@
 pyzipper
 requests
-shutil
