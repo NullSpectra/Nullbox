@@ -1,10 +1,10 @@
 # Nullbox
 Some useful script collection for Windows.
 
-## İçindekiler
-- [ZIP Bruteforce](zip_brute.py)
-- [Password Generator](passgen.py)
-- [IP Info](ipinfo.py)
+## Scripts
+- [ZIP Bruteforce](src/zip_brute.py)
+- [Password Generator](src/passgen.py)
+- [IP Info](src/ipinfo.py)
 
 ## Requirements
 - Python 3.x  
