@@ -5,6 +5,7 @@ Some useful script collection for Windows.
 - [ZIP Bruteforce](src/zip_brute.py)
 - [Password Generator](src/passgen.py)
 - [IP Info](src/ipinfo.py)
+- [Folder Organizer](src/folder_organizer.py)
 
 ## Requirements
 - Python 3.x  
