@@ -1,4 +1,4 @@
-import shutil,os
+import shutil
 from pathlib import Path
 
 EXTENSIONS = {

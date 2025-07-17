@@ -1,4 +1,4 @@
-import socket,requests,subprocess
+import socket,requests
 
 def get_local_ip():
     return socket.gethostbyname(socket.gethostname())
