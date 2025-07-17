@@ -1,2 +1,3 @@
 pyzipper
 requests
+yt-dlp
