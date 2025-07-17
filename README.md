@@ -9,6 +9,7 @@ Some useful script collection for Windows.
 - [Link Shortener](src/link_shortener.py)
 - [YouTube Video Downloader](src/yt_dw.py)
 - [Cleanup (cleans temporary files)](src/cleanup.py)
+- [System Information](src/sysinfo.py)
 
 ## Requirements
 - Python 3.x  
