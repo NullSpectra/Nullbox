@@ -8,6 +8,7 @@ Some useful script collection for Windows.
 - [Folder Organizer](src/folder_organizer.py)
 - [Link Shortener](src/link_shortener.py)
 - [YouTube Video Downloader](src/yt_dw.py)
+- [Cleanup (cleans temporary files)](src/cleanup.py)
 
 ## Requirements
 - Python 3.x  
