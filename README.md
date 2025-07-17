@@ -6,6 +6,7 @@ Some useful script collection for Windows.
 - [Password Generator](src/passgen.py)
 - [IP Info](src/ipinfo.py)
 - [Folder Organizer](src/folder_organizer.py)
+- [Link Shortener](src/link_shortener.py)
 
 ## Requirements
 - Python 3.x  
