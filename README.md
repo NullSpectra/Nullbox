@@ -10,6 +10,7 @@ Some useful script collection for Windows and Linux.
 - [YouTube Video Downloader](src/yt_dw.py)
 - [Cleanup (cleans temporary files)](src/cleanup.py) (only for windows)
 - [System Information](src/sysinfo.py)
+- [Simple AI](src/basic_ai.py) (doesn't have intelligence but you can use a json file for it.)
 
 ## Requirements
 - Python 3.x  
