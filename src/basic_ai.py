@@ -13,8 +13,8 @@ else:
     elif os.path.exists(fallback_path):
         file = fallback_path
     else:
-        print(f"Usage: {sys.argv[0]} ai.json \nExiting...")
-        exit()
+        file = input("AI: No JSON file found. Please provide the path to the AI responses JSON file: ")
+
 
 try:
     with open(file, "r") as jsonfile:
