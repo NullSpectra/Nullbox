@@ -1,5 +1,5 @@
 # Nullbox
-Some useful script collection for Windows and Linux.
+Some useful script collection for Windows and Linux. (soon macOS too)
 
 ## Scripts
 - [ZIP Bruteforce](src/zip_brute.py)
