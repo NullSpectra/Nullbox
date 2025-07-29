@@ -10,8 +10,8 @@ Some useful script collection for Windows and Linux. (soon macOS too)
 - [YouTube Video Downloader](src/yt_dw.py)
 - [Cleanup (cleans temporary files)](src/cleanup.py) (only for windows)
 - [System Information](src/sysinfo.py)
-- [Simple AI](src/basic_ai.py) (doesn't have intelligence but you can use a json file for it.)
+- [Simple AI](src/basic_ai.py) (it doesn't have intelligence but you can use a json file for it.)
 
 ## Requirements
 - Python 3.x  
-- [requirements.txt](requirements.txt) (you can install them automatically with `pip install -r requirements.txt`)
+- [requirements.txt](requirements.txt) (you can install them automatically with `pip3 install -r requirements.txt`)
