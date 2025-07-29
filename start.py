@@ -5,7 +5,7 @@ print("Welcome to Nullbox!\n")
 
 print("Scripts")
 print("----------")
-print("1. Basic AI\n2. Cleanup\n3. Folder Organizer\n4. IP Info\n5. Link Shortener\n6. Password Generator\n7. YouTube Downloader\n8. ZIP Bruteforce\n9. Exit")
+print("1. Basic AI\n2. Cleanup\n3. Folder Organizer\n4. IP Info\n5. Link Shortener\n6. Password Generator\n7. YouTube Downloader\n8. ZIP Bruteforce\n9. System Information\n10. Exit")
 
 choice = input("Enter the number of the script you want to run: ")
 
@@ -17,10 +17,11 @@ script_map = {
     "5": "src/link_shortener.py",
     "6": "src/passgen.py",
     "7": "src/yt_dw.py",
-    "8": "src/zip_brute.py"
+    "8": "src/zip_brute.py",
+    "9": "src/sysinfo.py"
 }
 
-if choice == "9":
+if choice == "10":
     print("Exiting...")
     sys.exit(0)
 elif choice in script_map:
